@@ -1,4 +1,4 @@
-// package Assignment1;
+package Assignment1;
 import java.util.Scanner;
 public class Ques5 {
     public static void main(String[] args) {
